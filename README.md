@@ -3,6 +3,7 @@
 ## Soud o data
 + [Historické záznamy o počasí mají být zdarma veřejné, nařídil soud](https://www.irozhlas.cz/zpravy-domov/chmu-soud-pocasi-zaznamy_1807030700_cib)
 + Kasace [5 As 231/2018](http://www.nssoud.cz/mainc.aspx?cls=InfoSoud&kau_id=214631)
++ [ZÚ](http://www.nssoud.cz/mainc.aspx?cls=EvidencniListVety&evl_id=100016)
 
 ## Právo na informace
 + [LZPS](https://www.zakonyprolidi.cz/cs/1993-2?text=Listina+z%C3%A1kladn%C3%ADch+pr%C3%A1v+a+svobod)
